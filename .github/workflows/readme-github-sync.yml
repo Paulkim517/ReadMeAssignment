@@ -12,5 +12,6 @@ jobs:
         with:
           readme-oas-key: ${{ secrets.README_OAS_KEY }}
           # OPTIONAL CONFIG, use if necessary
+          # oas-file-path: './petstore.json'
           # api-version: 'v1.0.0'
 
